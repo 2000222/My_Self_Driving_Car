@@ -2,9 +2,9 @@
 The experiments with the Udacity Self-driving Car Simulator.
 Unity Code https://github.com/udacity/self-driving-car-sim
 
-The introduction of the project is in the Self-driving-car.ipynb
+The introduction of the project is in the **Self-driving-car.ipynb**
 
-The training details are contained in the Behaviorial Cloning.ipynb
+The training details are contained in the **Behaviorial Cloning.ipynb**
 
 Training model in the project is similar to the Nvidia model for self-driving cars.
 
