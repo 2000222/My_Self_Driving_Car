@@ -8,5 +8,5 @@ The training details are contained in the **Behaviorial Cloning.ipynb**
 
 Training model in the project is similar to the Nvidia model for self-driving cars.
 
-More work is necessary to train a more efficient model.
+More work is necessary to train a more efficient model, some great results can be seen in BiliBIli. 
 
